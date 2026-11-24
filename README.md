@@ -63,8 +63,7 @@ root@HARISH777-CR7:~# neofetch --profile
 | Module | Architecture & Functionality | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[MEGATHON-2026-AI-HUMANITY-PS2](https://github.com/HARISH777-CR7/MEGATHON-2026-AI-HUMANITY-PS2)** | Real-time aerial survivor detection and triage vision module simulating drone optics via smartphone camera feeds. | `Computer Vision` `Vercel` `Real-Time Stream` | `🟢 DEPLOYED` |
-| **`PROJECT_SLOT_02`** | *[Add your next AI / Cloud / Data Science system here]* | `Python` `AWS` | `🟡 IN_DEV` |
-| **`PROJECT_SLOT_03`** | *[Add another core repository or tool here]* | `NumPy` `Pandas` | `🔵 R&D` |
+
 
 ---
 
